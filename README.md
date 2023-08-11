@@ -10,5 +10,5 @@ I'm web developer. I make backend and full stack too ...
 
 
 ## 🛠 Skills & Experience
-Html, Css, Bootstrap, Tailwind css, Javascript, Jquery, Vue js, Php, Laravel, Mysql, Api
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,jquery,vue,php,laravel,postman,firebase)](https://skillicons.dev)
 
