@@ -1,8 +1,9 @@
+<h1 align="center">
+  Hi, 👋 <br>
+  I'm KyawZayYa.
+</h1>
 
 ![Logo](https://github.com/KyawZayYa2222/Shopping-Cart-Mini-Project/assets/130377420/6ff871ac-a493-4808-97bb-eae51d36f15c)
-
-
-# Hi, I'm KyawZayYa! 👋
 
 
 ## 🚀 About Me
