@@ -11,7 +11,7 @@ I'm web developer. I make backend and full stack too ...
 
 
 ## 🛠 Skills & Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,jquery,vue,php,laravel,postman,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,jquery,vue,php,laravel,postman,mysql,postgresql,firebase)](https://skillicons.dev)
 
 ## ⚓ Contact Me
 <a href="kyawzayya100417@gmail.com"><img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" width="45px"><a/>
