@@ -17,3 +17,5 @@ I'm web developer. I make backend and full stack too ...
 <a href="kyawzayya100417@gmail.com"><img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" width="45px"><a/>
 <a href=""><img src="https://static.vecteezy.com/system/resources/previews/018/819/295/original/whatsapp-icon-transparent-free-png.png" width="45px"><a/>
 <a href="https://www.facebook.com/profile.php?id=100037648452693"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" width="45px"><a/>
+
+![LeetCode Stats](https://leetcode.card.workers.dev/kyawzayya100417?theme=light&font=baloo&extension=null)
