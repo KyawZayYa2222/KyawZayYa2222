@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Kyaw Zay Ya.
 
 ## 🚀 About Me
-I'm a passionate web developer. I'm 23-year old and currently living in Yangon, Myanmar. I like to spend my time in technology like coding, and playing with electronics. I have passion at designing and developing useful web app.
+I'm a passionate web developer. I'm 23-year old and currently living in Yangon, Myanmar. I like to spend my time in technology like coding, and playing with electronics. I have passion at designing and developing useful web apps.
 
 <a href="https://www.linkedin.com/in/kyaw-zayya-6a3488269"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" width="100" /> </a>
 
